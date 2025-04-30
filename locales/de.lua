@@ -9,7 +9,7 @@ Locales["de"] = {
     settingsResetSuccess = "Einstellungen erfolgreich zurückgesetzt",
     currentVersion = "Letzte Version: ",
     yourVersion = "Deine Version: ",
-    latestVersion = "Du nutzt die Letze Version!",
-    needUpdateResource = "Du musst die letze Version downloaden! Installiere die neuste Version!",
+    latestVersion = "Du nutzt die letzte Version!",
+    needUpdateResource = "Du musst die letzte Version downloaden! Installiere die neuste Version!",
     errorGetCurrentVersion = "Ein Fehler kam als die Versionsabfrage durchgeführt wurde!",
 }
